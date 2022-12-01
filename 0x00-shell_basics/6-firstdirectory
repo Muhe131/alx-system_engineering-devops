@@ -1,2 +1,2 @@
 #!/bin/bash
-mktmp
+mktemp -d -t ci-xxxxxxxx
